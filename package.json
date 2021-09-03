@@ -1,0 +1,25 @@
+{
+  "name": "exercicio_logica_aplicadas4",
+  "version": "1.0.0",
+  "description": " ",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larissamrs/logica3_reprograma_S4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larissamrs/logica3_reprograma_S4/issues"
+  },
+  "homepage": "https://github.com/Larissamrs/logica3_reprograma_S4#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "readline-sync": "^1.4.10",
+    "start": "^5.1.0"
+  },
+  "main": "app.js"
+}
